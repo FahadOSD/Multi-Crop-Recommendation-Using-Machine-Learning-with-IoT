@@ -1,1 +1,0 @@
-# Multi-Crop-Recommendation-Using-Machine-Learning-with-IoT
